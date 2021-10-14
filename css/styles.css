@@ -224,6 +224,11 @@ social-icon {
     text-align: center;
 }
 
+a.social-icon: 
+    color: black;
+    padding: 12px;
+    font-size: 25px;
+
 .g:hover {
     color: white !important;
 }
