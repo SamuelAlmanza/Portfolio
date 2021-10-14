@@ -249,6 +249,11 @@ span.social-icon {
 /* Media Queries */
 
 @media (max-width: 430px) {
+    .jumbotron-header{
+        font-size: 100px;
+    }
+        
+    
     .jumbotron-text {
         font-size: 110px;
     }
