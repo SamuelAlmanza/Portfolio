@@ -1,4 +1,4 @@
-# Samuel-Almanza-Portfolio-Site
+# Portfolio-Site
  
 ## ***This site is a Work In Progress!***
 Thanks for visiting my portfolio site. 
